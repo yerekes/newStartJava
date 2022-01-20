@@ -12,6 +12,6 @@ public class MyFirstGame {
             } 
             System.out.println("Введите число повторно");
         }
-            System.out.println("Поздравляю, число угадано!");
+        System.out.println("Поздравляю, число угадано!");
     }
 }
